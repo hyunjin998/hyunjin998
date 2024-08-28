@@ -135,16 +135,16 @@ Here are some ideas to get you started:
 <!--랭크-->
 
 ## <div align="center">🌀 My Status 🌀</h3>
+### <div align="center">Git RANK </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
+</div>
+
 ### <div align="center"> Boj RANK </div>
 <div align="center">
   <a href="https://solved.ac/tcmhdn77">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" alt="Solved.ac 프로필"/>
   </a>
-</div>
-
-### <div align="center">Git RANK </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
 </div>
 
 <br><br><br>
