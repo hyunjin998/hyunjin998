@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## <div align="center">✨ Tech Stack ✨</h3>
 ### <div align="center">Language </div>
-<div align="center">
+<div align="center"> Language
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 
 ### <div align="center">Communication </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" /> &nbsp
 </div>
 
@@ -97,6 +97,35 @@ Here are some ideas to get you started:
 
 
 <!--내용 부분 끝-->
+
+
+
+
+
+<!--연락-->
+
+## <div align="center">🥕 Contact 🥕</div>
+<div align="center">
+  <!-- Notion -->
+  <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=F3F3F3" />
+  </a>
+
+  <!-- Tistory -->
+  <a href="https://hyunjinius998.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:tcmhdn77@naver.com">
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+<br><br><br>
+
+<!--연락 부분 끝-->
+
+
 
 
 
@@ -124,25 +153,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-<!--연락 -->
-
-## <div align="center">🥕 Contact 🥕</div>
-<div align="center">
-  <!-- Notion -->
-  <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=F3F3F3" />
-  </a>
-
-  <!-- Tistory -->
-  <a href="https://hyunjinius998.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:tcmhdn77@naver.com">
-    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-<br><br><br>
