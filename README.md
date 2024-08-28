@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 
 <!--연락 -->
 
-## <div align="center">📫 Contact 📫</div>
+## <div align="center">🥕 Contact 🥕</div>
 <div align="center">
   <!-- Notion -->
   <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 
   <!-- Email -->
   <a href="mailto:tcmhdn77@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 <br><br><br>
