@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-43A047.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 
 ### <div align="center">Version Control </div>
@@ -108,7 +109,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Notion -->
   <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=F3F3F3" />
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
 
   <!-- Tistory -->
