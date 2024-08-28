@@ -23,13 +23,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+
 ### <div align="center">안녕하세요! 🙇🏻‍♀️</div>
 <div align="center">
   신입 백엔드 개발자 김현진입니다. <br>
-  알지 못하는 것을 인정하고 배우는 것을 기쁘게 여깁니다. 😄 <br>
-  한 줄을 쓰더라도 의미 있는 코드를 쓰려고 합니다. 🧼 <br>
+  알지 못하는 것을 인정하고 <strong>배우는 것을 기쁘게 여깁니다</strong>. 😄 <br>
+  한 줄을 쓰더라도 <strong>의미 있는 코드를 쓰려고 합니다</strong>. 🧼 <br>
 </div>
 <br>
+
 
 <!--타이틀 부분 끝-->
 
@@ -90,12 +92,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" /> &nbsp
 </div>
 
-<br>
+<br><br><br>
 
-<!--기술 스택 끝-->
+
+
+<!--내용 부분 끝-->
+
+
+
+
 
 
 <!--랭크-->
+
 ## <div align="center">🌀 My Status 🌀</h3>
 ### <div align="center"> Boj RANK </div>
 <div align="center">
@@ -109,20 +118,31 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
 </div>
 
+<br><br><br>
+
+<!--랭크 끝-->
 
 
 
 
 
-<!--
-<h3 align="center">📫 Contact 📫</h3>
+<!--연락 -->
+
+## <div align="center">📫 Contact 📫</div>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <!-- Notion -->
+  <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=F3F3F3" />
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+
+  <!-- Tistory -->
+  <a href="https://hyunjinius998.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:tcmhdn77@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
--->
+<br><br><br>
