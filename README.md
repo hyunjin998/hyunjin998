@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--타이틀 부분-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="header"/>
   <br>
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## <div align="center">안녕하세요! 🙇🏻‍♀️</div>
+### <div align="center">안녕하세요! 🙇🏻‍♀️</div>
 <div align="center">
   신입 백엔드 개발자 김현진입니다. <br>
   알지 못하는 것을 인정하고 배우는 것을 기쁘게 여깁니다. 😄 <br>
@@ -30,17 +31,13 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<!--타이틀 부분 끝-->
 
 
 
-
-
-<!--타이틀 부분-->
-<div align="center">
-<!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
-</div>
 
 <!--내용 부분-->
+
 ## <div align="center">✨ Tech Stack ✨</h3>
 ### <div align="center">Language </div>
 <div align="center">
@@ -95,23 +92,27 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--
+<!--기술 스택 끝-->
+
+
+<!--랭크-->
+## <div align="center">🌀 My Status 🌀</h3>
+### <div align="center"> Boj RANK </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <a href="https://solved.ac/tcmhdn77">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" alt="Solved.ac 프로필"/>
+  </a>
 </div>
 
+### <div align="center">Git RANK </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
 </div>
--->
+
+
+
+
+
 
 <!--
 <h3 align="center">📫 Contact 📫</h3>
