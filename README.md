@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--내용 부분-->
 
-## <div align="center">✨ Tech Stack ✨</h3>
+## <div align="center">✨ Intermediate ✨</h3>
 ### <div align="center">Language </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -59,6 +59,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
+### <div align="center">Version Control </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
+</div>
+
+### <div align="center">Communication </div>
+<div align="center">
+  <div align="center">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" /> &nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br><br><br>
+
+## <div align="center">🥊 Beginner 🥊</h3>
 ### <div align="center">Data </div>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -71,26 +94,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nginx-43A047.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
-</div>
-
-### <div align="center">Version Control </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
-</div>
-
-### <div align="center">Communication </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" /> &nbsp
 </div>
 
 <br><br><br>
