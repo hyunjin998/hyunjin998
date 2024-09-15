@@ -112,13 +112,13 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Notion -->
   <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
+  &nbsp
 
   <!-- Tistory -->
   <a href="https://hyunjinius998.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+  &nbsp
 
   <!-- Email -->
   <a href="mailto:tcmhdn77@naver.com">
