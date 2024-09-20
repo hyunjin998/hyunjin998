@@ -142,7 +142,9 @@ Here are some ideas to get you started:
 ### <div align="center">Git RANK </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin998&count_private=true" alt="hyunjin998's Most Languages"/>
 </div>
+
 
 ### <div align="center"> Boj RANK </div>
 <div align="center">
