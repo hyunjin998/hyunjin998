@@ -41,25 +41,14 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 
 ## <div align="center">✨ Intermediate ✨</h3>
-### <div align="center">Language </div>
+#### <div align="center">Language, Framework, Database </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-</div>
-
-### <div align="center">Framework </div>
-<div align="center">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp
-</div>
-
-### <div align="center">Database </div>
-<div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
-### <div align="center">Version Control </div>
+#### <div align="center">Version Control </div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -67,7 +56,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
 </div>
 
-### <div align="center">Communication </div>
+#### <div align="center">Communication </div>
 <div align="center">
   <div align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> &nbsp
@@ -82,14 +71,21 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ## <div align="center">🥊 Beginner 🥊</h3>
-### <div align="center">Data </div>
+#### <div align="center">Language, Framework</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp
+</div>
+
+#### <div align="center">Data </div>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-### <div align="center">Server </div>
+#### <div align="center">Server </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
@@ -139,18 +135,10 @@ Here are some ideas to get you started:
 <!--랭크-->
 
 ## <div align="center">🌀 My Status 🌀</h3>
-### <div align="center">Git RANK </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin998&count_private=true" alt="hyunjin998's Most Languages"/>
-</div>
-
-
-### <div align="center"> Boj RANK </div>
-<div align="center">
-  <a href="https://solved.ac/tcmhdn77">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" alt="Solved.ac 프로필"/>
-  </a>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" alt="Solved.ac 프로필"/>
 </div>
 
 <br><br><br>
