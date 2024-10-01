@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
+
+
 #### <div align="center">Version Control </div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
