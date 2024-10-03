@@ -73,8 +73,6 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-
-
 ## <div align="center">🥊 Beginner 🥊</h3>
 #### <div align="center">Language, Framework</div>
 <div align="center">
