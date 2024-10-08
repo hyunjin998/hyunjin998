@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<!--타이틀 부분-->
+<!--타이틀-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="header"/>
@@ -35,13 +35,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
-<!--타이틀 부분 끝-->
-
+<!--타이틀 끝-->
 
 
 
-<!--내용 부분-->
+
+<!--내용 -->
 
 ## <div align="center">✨ Intermediate ✨</h3>
 #### <div align="center">Language, Framework, Database </div>
@@ -50,8 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
-
-
 
 #### <div align="center">Version Control </div>
 <div align="center">
@@ -99,9 +96,9 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
+<!--내용 끝-->
 
 
-<!--내용 부분 끝-->
 
 
 
@@ -128,12 +125,7 @@ Here are some ideas to get you started:
 </div>
 <br><br><br>
 
-<!--연락 부분 끝-->
-
-
-
-
-
+<!--연락 끝-->
 
 
 
