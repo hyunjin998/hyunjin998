@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### <div align="center">안녕하세요! 🙇🏻‍♀️</div>
 <div align="center">
   신입 백엔드 개발자 김현진입니다. <br>
-  <strong>배우는 것을 기쁘게 여기며 </strong>. 😄 <br>
+  <strong>배우는 것을 기쁘게 여기며 </strong><br>
   한 줄을 쓰더라도 <strong>의미 있는 코드를 쓰려고 합니다</strong>. 🧼 <br>
 </div>
 <br>
