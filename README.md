@@ -125,20 +125,17 @@ Here are some ideas to get you started:
 
 <!--연락-->
 
-## <div align="center">🥕 Contact 🥕</div>
+<!-- ## <div align="center">🥕 Contact 🥕</div>
 <div align="center">
-  <!-- Notion -->
-  <!--<a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>-->
-  <!-- Tistory -->
+  <a href="https://wise-elephant-82b.notion.site/5905bc9b999a4c38b07b7838f966a360?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
   <a href="https://hyunjinius998.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a>
-  <!-- Email -->
   <a href="mailto:tcmhdn77@naver.com">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<br><br><br>
+<br><br><br> -->
 
 <!--연락 끝-->
 
@@ -155,7 +152,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin998&layout=compact&theme=dracula" /><br> -->
 </div>
 
-<!-- <br><br><br> -->
+<br><br><br>
 <!--랭크 끝-->
 
 <div align="center">
