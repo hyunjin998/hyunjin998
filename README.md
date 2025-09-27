@@ -26,11 +26,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-
 ### <div align="center">안녕하세요! 🙇🏻‍♀️</div>
 <div align="center">
-  신입 백엔드 개발자 김현진입니다. <br>
+  주니어 백엔드 개발자 김현진입니다. 🌱<br>
   <strong>배우는 것을 기쁘게 여기며 </strong><br>
   한 줄을 쓰더라도 <strong>의미 있는 코드를 쓰려고 합니다</strong>. 🧼 <br>
 </div>
@@ -42,20 +40,27 @@ Here are some ideas to get you started:
 
 <!--내용 -->
 
-## <div align="center">✨ Intermediate ✨</h3>
+## <div align="center">✨ Skills ✨</h3>
 <!--#### <div align="center">Language, Framework, Database </div>-->
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+  
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+  <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <!--#### <div align="center">Version Control </div>-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> -->
 </div>
 
 <!--#### <div align="center">Communication </div>-->
@@ -74,9 +79,9 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-## <div align="center">🥊 Beginner 🥊</h3>
+<!-- ## <div align="center">🥊 Beginner 🥊</h3> -->
 <!--#### <div align="center">Language, Framework</div>-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -85,7 +90,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
+</div> -->
 
 <!--#### <div align="center">Data </div>-->
 <!--
@@ -93,23 +98,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-</div>
--->
+</div> -->
 
 <!--#### <div align="center">Server </div>-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nginx-43A047.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white" />
 </div>
 
-<br><br><br>
+<br><br><br> -->
 
 <!--내용 끝-->
 
@@ -144,14 +148,14 @@ Here are some ideas to get you started:
 
 <!--랭크-->
 
-## <div align="center">🌀 My Status 🌀</h3>
+<!-- ## <div align="center">🌀 My Status 🌀</h3> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunjin998&count_private=true" alt="hyunjin998's GitHub stats"/><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" href="https://solved.ac/profile/tcmhdn77" alt="Solved.ac 프로필"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin998&layout=compact&theme=dracula" /><br>
+  <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tcmhdn77" href="https://solved.ac/profile/tcmhdn77" alt="Solved.ac 프로필"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin998&layout=compact&theme=dracula" /><br> -->
 </div>
 
-<br><br><br>
+<!-- <br><br><br> -->
 <!--랭크 끝-->
 
 <div align="center">
